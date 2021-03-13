@@ -1,4 +1,5 @@
-# jogodavelha_py ##My first game project
+# jogodavelha_py
+##My first game project
 
 ## Table of contents
 * [About project] (#about-projet)
